@@ -3,9 +3,11 @@ div {
 }
 @media (min-width: 480px) {
 	div {
-		margin: 0 0 0 400px;
+		margin: 0 0 0 200px;
 	}
 }
 body {
-	
+	background-color: lightyellow;
+	color: darkgreen;
+	margin: 10px 10px 10px 10px;
 }
