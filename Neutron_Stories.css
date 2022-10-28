@@ -1,0 +1,17 @@
+body {
+	background-image: url(Wallpaper-02.jpg);
+	font-family: Segoe Print;
+	color: lightgreen;
+}
+@media (min-width: 480px) {
+	body {
+		background-image: none;
+		background-color: darkviolet;
+	}
+}
+h1, p {
+	text-align: center;
+}
+a {
+	color: lightgray;
+}
