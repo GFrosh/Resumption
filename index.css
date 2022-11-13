@@ -1,0 +1,15 @@
+* {
+	margin: 5px 5px 5px 5px;
+}
+body {
+	background-color: chocolate;
+	font-family: Segoe Print;
+	color: lightgreen;
+	display: stretch;
+}
+h1 {
+	text-align: center;
+}
+a {
+	color: lightgray;
+}
